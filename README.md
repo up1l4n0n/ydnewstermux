@@ -1,0 +1,2 @@
+# ydnewstermux
+script ydnews
